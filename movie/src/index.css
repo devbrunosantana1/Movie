@@ -12,9 +12,9 @@ body {
 
 a{
     text-decoration: none;
-    color: #f5f5dc;
+    color: #FF0000;
 }
 
 a:hover {
-    color: #ffebcd;
+    color: #FF4500;
 }
